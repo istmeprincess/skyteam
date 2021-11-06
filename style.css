@@ -49,7 +49,7 @@ body {
 }
 
 .user-name {
-  font-family: monospace;
+  font-family: italic-monospace;
   margin-top: 30px;
   font-size: 35px;
 }
